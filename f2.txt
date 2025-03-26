@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This file is created at remote repository
+=======
+This file is added in feature branch
+>>>>>>> 094840a (f2.txt is added)
